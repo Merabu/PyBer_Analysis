@@ -7,6 +7,8 @@ In this project, I was asked by a decision maker at PyBer to use my python skill
 ## Results:
 ### PyBer - Multiple-line chart of total fares for each city type image_name
 
+![grapg1](https://user-images.githubusercontent.com/115379848/212227696-8f0b178a-044c-461e-9642-e724407066cc.JPG)
+
 The total number of drivers in rural areas is much less compared to urban and suburan
 
 The total number of drivers in rural areas are much less.
