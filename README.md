@@ -11,8 +11,6 @@ In this project, I was asked by a decision maker at PyBer to use my python skill
 
 The total number of drivers in rural areas is much less compared to urban and suburan
 
-The total number of drivers in rural areas are much less.
-
 The average fare per ride in rural areas are greater.
 
 The average fare per driver in rural areas are greater too.
