@@ -16,10 +16,7 @@ The average fare per driver in rural areas are greater too.
 The total fare in urban areas are more.
 
 
-
-
-
-
-
-
 ## Summary
+ From my analysis driver in the rural area more drivers can  lower down the average fare per ride and
+increase revenue for PyBer. More driver driver in suburban area can bring the
+average fare per ride and increase total revenue for PybBer
