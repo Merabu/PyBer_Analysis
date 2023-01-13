@@ -19,6 +19,9 @@ The total fare in urban areas are more.
 
 
 ## Summary
+
+![image](https://user-images.githubusercontent.com/115379848/212227503-1aa5f621-2063-4179-a097-cf9de52e46d7.png)
+
 Urban fare totals are much bigger than Suburban  and surbauran fares are bigger than Rural.
 There is a similiarity in the partner over the mothns of Janurary 2019 and may-2019.
 The gragh shows the highest fares at the end of febuary and March. 
